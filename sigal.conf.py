@@ -187,8 +187,11 @@ ignore_files = []
 index_in_url = True
 
 # A list of links (tuples (title, URL))
-# links = [('Example link', 'http://example.org'),
-#          ('Another link', 'http://example.org')]
+links = [
+            ('Submit changes', 'https://github.com/williamkray/gifs.jobmachine.org/'),
+            ('Log in to chat', 'https://app.jobmachine.org'),
+            ('Visit the website', 'https://www.jobmachine.org')
+        ]
 
 # Google Analytics tracking code (UA-xxxx-x)
 # google_analytics = ''
@@ -217,7 +220,7 @@ index_in_url = True
 # framework which is used for this theme: http://www.getskeleton.com/#grid
 # Then the image size must be adapted to fit the column size.
 # The default is 3 columns (176px).
-# colorbox_column_size = 3
+colorbox_column_size = 3
 
 # Site Logo - Use a logo file in the sidebar
 # Only for colorbox currently, it could be adapted for other themes

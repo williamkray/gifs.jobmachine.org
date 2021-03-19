@@ -1,7 +1,7 @@
 # The Job Machine GIF Library
 
 This repo hosts files associated with the official jobmachine.org GIF library. Find the perfect reaction to something by
-visiting http://gifs.jobmachine.org/
+visiting https://gifs.jobmachine.org/
 
 This repo is also quite large and obnoxious to sync with because it's a bunch of image files.
 
